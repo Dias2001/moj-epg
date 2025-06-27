@@ -89,6 +89,7 @@ HGTV.USA.-.Eastern.Feed.us
 History.Channel.US.-.Eastern.Feed.us
 HLN.us
 HSN..-.Home.Shopping.Network.us
+IFC.HDTV.(East).us
 Investigation.Discovery.USA.-.Eastern.us
 INSP.us
 ION..-.Eastern.Feed.us
