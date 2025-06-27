@@ -82,6 +82,7 @@ Hallmark.Mystery.Eastern.-.HD.us
 HBO.-.Eastern.Feed.us
 HBO.Comedy.HD.-.East.us
 HBO.Family.-.Eastern.Feed.us
+HBO.Signature.(HBO.3).-.Eastern.us
 HBO.Zone.HD.-.East.us
 HBO.2.-.Eastern.Feed.us
 HGTV.USA.-.Eastern.Feed.us
