@@ -107,7 +107,6 @@ Logo.us2
 Love.Nature.ca2
 Marquee.Sports.Network.HD.us2
 Me.TV.Network.us2
-
 MGM+.Drive-In.us2
 MGM+.HD.us2
 MGM+.Hits.HD.us2
@@ -157,6 +156,8 @@ RACER.Network.HD.us2
 RDS2.ca2
 RDS2.HD.ca2
 Réseau.des.Sports.Info.ca2
+Réseau.des.Sports.(RDS).ca2
+Réseau.des.Sports.(RDS).HD.ca2
 ReelzChannel.HD.us2
 Revolt.HD.us2
 Scripps.News.us2
